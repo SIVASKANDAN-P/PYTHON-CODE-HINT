@@ -1,0 +1,6 @@
+,Model,Size
+0,google/flan-t5-large,0.78315008
+1,google/flan-t5-small,0.076961152
+2,google/flan-t5-base,0.247577856
+3,google/flan-t5-xl,2.849757184
+4,codellama/CodeLlama-7b-hf,6.738546688
