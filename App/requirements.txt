@@ -1,0 +1,11 @@
+datasets
+peft==0.13.2
+accelerate==1.1.1
+bitsandbytes
+trl
+transformers==4.47.0
+pandas
+numpy
+seaborn
+streamlit
+torch
